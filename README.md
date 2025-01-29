@@ -1,2 +1,2 @@
 # ku
-о чем то будет хз
+It's a very interesting project.
